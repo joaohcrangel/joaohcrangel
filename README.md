@@ -5,3 +5,4 @@
 - 🔭 I’m currently working on Hcode
 - 🌱 I’m currently learning JavaScript
 
+![Snake](https://github.com/joaohcrangel/joaohcrangel/blob/output/github-contribution-grid-snake.svg)
