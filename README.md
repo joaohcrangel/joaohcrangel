@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Hcode
 - 🌱 I’m currently learning JavaScript
 
-[!(https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/HcodeBrasil)
-[!(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/playlist?list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/HcodeBrasil)
+[![Playlist HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/playlist?list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA)
 
 ![Snake](https://github.com/joaohcrangel/joaohcrangel/blob/output/github-contribution-grid-snake.svg)
